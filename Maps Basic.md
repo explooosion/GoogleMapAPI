@@ -41,7 +41,7 @@ google.map.event.addDomListener(window, 'load', initianlize);
 ```
 
 ## Asynchronously Loading
-此方法為將 initialize() 參數轉為 parameter 帶入 url，檔頭不須引用 api
+此方法為將 initialize() 參數轉為 parameter 帶入 url。
 
 
 於 callback 後串接 function：
