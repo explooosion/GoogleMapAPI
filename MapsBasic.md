@@ -56,4 +56,4 @@ window.onload = loadScript;
 ```
 
 ## Map Demo
-[CodePen](http://codepen.io/ta7382/pen/ONVvyq?editors=1010 "asd"  target="_blank")
+<a href="http://codepen.io/ta7382/pen/ONVvyq?editors=1010" target="_blank">CodePen</a>
